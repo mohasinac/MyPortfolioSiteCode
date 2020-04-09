@@ -29,9 +29,7 @@ class Home extends Component {
                         <Typography as="p" variant="body1" align="center">
                             Welcome to my Website!
                         </Typography>
-                        <Typography as="p" variant="body1" align="center">
-                            Check Out my  <NavLink to="/projects">Projects</NavLink> and <NavLink to="/resume">Resume</NavLink>!
-                        </Typography>
+                        
                     </Grid>
                 </Grid>
 
